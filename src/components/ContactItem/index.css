@@ -1,0 +1,9 @@
+.image {
+  width: 200px;
+  height: 200px;
+}
+
+.table-row {
+  margin: 10px;
+  list-style-type: none;
+}
